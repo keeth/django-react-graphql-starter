@@ -10,12 +10,11 @@ React is a great tool for rapid frontend development.
 
 This starter brings these two great tools together!
 
-Django has excellent GraphQL support via the Graphene library.   
-With a great deal of ease and very little code you can create your database 
+Django has excellent GraphQL support via the Graphene library. With a great deal of ease and very little code you can create your database 
 models and expose them via a GraphQL interface, and then use them in your React app 
 via the wonderful Apollo Client.
 
-This starter kit also helps you get authentication working via JSON Web Tokens.
+This starter kit also includes an authentication demo using JSON Web Tokens.
 
 ## Requirements
 
