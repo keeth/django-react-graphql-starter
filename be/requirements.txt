@@ -1,6 +1,6 @@
 Django==2.0.2
 django-cors-headers==2.2.0
-djangorestframework==3.7.7
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 graphene==2.0.1
 graphene-django==2.0.0
